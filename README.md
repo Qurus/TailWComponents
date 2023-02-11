@@ -5,9 +5,6 @@ TailWComponents is a collection of high quality, free, open source TailwindCSS c
 
 
 ## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Authors

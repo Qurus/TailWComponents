@@ -17,7 +17,7 @@ const NavbarVerion3 = () => {
   const show = () => setIsOpen(true)
   return (
     <>
-      <nav className="hidden md:flex justify-center items-center max-w-6xl mx-auto p-5 text-xl bg-gray-200 rounded-full space-x-20">
+      <nav className="hidden md:flex justify-center items-center max-w-6xl mx-auto p-5 text-xl bg-gray-200 rounded-full space-x-20 shadow">
         <div>
           <ul className="hidden md:flex space-x-6 text-zinc-700">
             {navigation.map((nav) => (

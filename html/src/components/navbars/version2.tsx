@@ -15,7 +15,7 @@ const NavbarVerion2 = () => {
   const show = () => setIsOpen(true)
   return (
     <>
-      <nav className="hidden md:flex justify-between items-center max-w-7xl mx-auto p-5 text-xl">
+      <nav className="hidden md:flex justify-between items-center max-w-7xl mx-auto p-5 text-xl border">
         <div>
           <img src={logo} alt="TailW Logo" />
         </div>

@@ -11,4 +11,5 @@ TailWComponents is a collection of high quality, free, open source TailwindCSS c
 
 - [@qurus](https://www.github.com/Qurus)
 - [@Ellah120](https://www.github.com/Ellah120)
+- [@jessicafuller808](https://www.github.com/jessicafuller808)
 

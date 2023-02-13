@@ -7,25 +7,29 @@
         "id": 1,
         "title": "NAVBARS",
         "desc": "Total Navbars",
-        "count": "4"
+        "count": "4",
+        "link": "/navbars"
       },
       {
         "id": 2,
         "title": "Hero",
         "desc": "Total Hero",
-        "count": "0"
+        "count": "0",
+        "link": "/navbars"
       },
       {
         "id": 3,
         "title": "CTA",
         "desc": "Total Call to Action",
-        "count": "0"
+        "count": "0",
+        "link": "/navbars"
       },
       {
         "id": 4,
         "title": "Home About",
         "desc": "Home About",
-        "count": "0"
+        "count": "0",
+        "link": "/navbars"
       }
     ]
 }

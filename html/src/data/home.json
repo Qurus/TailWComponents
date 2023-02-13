@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "title": "Home",
+    "content": "TailWComponents is a collection of high quality, free, open source TailwindCSS components designed to help developers quickly and easily create stunning websites and applications. Our components are carefully crafted and built to be lightweight, scalable, and customizable. With TailWComponents, developers can create beautiful and functional websites with minimal effort. TailWComponents is the perfect choice for developers looking to get the most out of TailwindCSS.",
+    "cards": [
+      {
+        "id": 1,
+        "title": "NAVBARS",
+        "desc": "Total Navbars",
+        "count": "4"
+      },
+      {
+        "id": 2,
+        "title": "Hero",
+        "desc": "Total Hero",
+        "count": "0"
+      },
+      {
+        "id": 3,
+        "title": "CTA",
+        "desc": "Total Call to Action",
+        "count": "0"
+      },
+      {
+        "id": 4,
+        "title": "Home About",
+        "desc": "Home About",
+        "count": "0"
+      }
+    ]
+}
